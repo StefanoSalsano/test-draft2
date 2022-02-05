@@ -13,7 +13,7 @@ venue:
   type: SIG
   mail: eip@postino.cnit.it
   arch: http://postino.cnit.it/cgi-bin/mailman/private/eip/
-  github: USER/REPO
+  github: eip-home/eip-headers
   latest: https://stefanosalsano.github.io/test-draft2/draft-salsano-test-draft2.html
 
 stand_alone: yes
@@ -47,9 +47,7 @@ Changed introduction
 
 # Conventions and Definitions
 
-<!---
 {::boilerplate bcp14-tagged}
--->
 
 # Security Considerations
 
