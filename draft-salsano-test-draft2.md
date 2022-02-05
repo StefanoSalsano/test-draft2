@@ -6,15 +6,15 @@ category: info
 docname: draft-salsano-test-draft2-latest
 ipr: trust200902
 area: AREA
-workgroup: WG Working Group
+workgroup: SIG on EIP
 keyword: Internet-Draft
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
+  mail: eip@postino.cnit.it
+  arch: http://postino.cnit.it/cgi-bin/mailman/private/eip/
   github: USER/REPO
-  latest: https://example.com/LATEST
+  latest: https://stefanosalsano.github.io/test-draft2/draft-salsano-test-draft2.html
 
 stand_alone: yes
 smart_quotes: no
@@ -23,7 +23,7 @@ pi: [toc, sortrefs, symrefs]
 author:
  -
     name: "Stefano Salsano"
-    organization: Your Organization Here
+    organization: Univ. of Rome Tor Vergata / CNIT
     email: "stefano.salsano@uniroma2.it"
 
 normative:
