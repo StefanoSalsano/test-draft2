@@ -24,8 +24,8 @@ About This Document
    draft2.html.  Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-salsano-test-draft2/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:eip@postino.cnit.it), which is archived at
+   Discussion of this document takes place on the EIP SIG mailing list
+   (mailto:eip@postino.cnit.it), which is archived at
    http://postino.cnit.it/cgi-bin/mailman/private/eip/.
 
    Source for this draft and an issue tracker can be found at
@@ -80,12 +80,6 @@ Table of Contents
 1.1.  Subsection title
 
 2.  Conventions and Definitions
-
-   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
-   "OPTIONAL" in this document are to be interpreted as described in
-   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
-   capitals, as shown here.
 
 3.  Security Considerations
 
