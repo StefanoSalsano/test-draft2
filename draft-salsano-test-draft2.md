@@ -9,8 +9,8 @@ area: AREA
 workgroup: SIG on EIP
 keyword: Internet-Draft
 venue:
-  group: WG
-  type: Working Group
+  group: EIP
+  type: SIG
   mail: eip@postino.cnit.it
   arch: http://postino.cnit.it/cgi-bin/mailman/private/eip/
   github: USER/REPO
@@ -47,8 +47,9 @@ Changed introduction
 
 # Conventions and Definitions
 
+<!---
 {::boilerplate bcp14-tagged}
-
+-->
 
 # Security Considerations
 
